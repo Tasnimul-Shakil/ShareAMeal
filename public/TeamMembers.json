@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Lily Rose",
+    "designation": "COO",
+    "social_media": {
+      "facebook": "https://facebook.com/johndoe",
+      "twitter": "https://twitter.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe"
+    },
+    "image": "https://i.ibb.co/FwZ9Syr/zac-gudakov-wwq-Z8-CM21gg-unsplash-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "designation": "Manager",
+    "social_media": {
+      "facebook": "https://facebook.com/janesmith",
+      "twitter": "https://twitter.com/janesmith",
+      "linkedin": "https://linkedin.com/in/janesmith"
+    },
+    "image": "https://i.ibb.co/5rXSf2c/436340362-1130973634880690-264261813042852488-n.jpg"
+  },
+  {
+    "id": 3,
+    "name": "David Johnson",
+    "designation": "Marketing Executive",
+    "social_media": {
+      "facebook": "https://facebook.com/davidjohnson",
+      "twitter": "https://twitter.com/davidjohnson",
+      "linkedin": "https://linkedin.com/in/davidjohnson"
+    },
+    "image": "https://i.ibb.co/ftpq4Gd/13706987-157801777958132-1249998097-a.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emily Brown",
+    "designation": "HR Coordinator",
+    "social_media": {
+      "facebook": "https://facebook.com/emilybrown",
+      "twitter": "https://twitter.com/emilybrown",
+      "linkedin": "https://linkedin.com/in/emilybrown"
+    },
+    "image": "https://i.ibb.co/KNfySgW/353459854-3487917021448678-6285152541201650391-n.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Michael Wilson",
+    "designation": "IT Specialist",
+    "social_media": {
+      "facebook": "https://facebook.com/michaelwilson",
+      "twitter": "https://twitter.com/michaelwilson",
+      "linkedin": "https://linkedin.com/in/michaelwilson"
+    },
+    "image": "https://i.ibb.co/7V2vkXx/428580533-3590047341247647-6533810074591795487-n.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Miller",
+    "designation": "Finance Analyst",
+    "social_media": {
+      "facebook": "https://facebook.com/sophiamiller",
+      "twitter": "https://twitter.com/sophiamiller",
+      "linkedin": "https://linkedin.com/in/sophiamiller"
+    },
+    "image": "https://i.ibb.co/qnWL1Zg/184895977-318076906329073-1836864424234942095-n.jpg"
+  }
+]

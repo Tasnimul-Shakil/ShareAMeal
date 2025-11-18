@@ -1,0 +1,11 @@
+.active {
+    font-weight: bold;
+    color: #55D4AB;
+    background-color: white; /* Or whatever background color you prefer for the active state */
+  }
+  
+  .active:hover {
+    text-decoration: none; /* Optional: Remove underline or any default hover effect */
+    color: #55D4AB; /* Keep the same color on hover */
+  }
+  
