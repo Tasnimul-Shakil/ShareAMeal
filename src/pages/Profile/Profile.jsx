@@ -26,9 +26,12 @@ const Profile = () => {
       confirmButtonText: "Yes, delete it!",
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`http://localhost:3000/foodInfo/${id}`, {
-          // updated endpoint
+        fetch(`https://shareamealbackend.vercel.app/profile/${userEmail}`, {
           method: "DELETE",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ id }), // send the id in the body
         })
           .then((res) => res.json())
           .then((data) => {
@@ -39,7 +42,21 @@ const Profile = () => {
                 icon: "success",
               });
               window.location.reload();
+            } else {
+              Swal.fire({
+                title: "Error!",
+                text: "Food info could not be deleted.",
+                icon: "error",
+              });
             }
+          })
+          .catch((err) => {
+            Swal.fire({
+              title: "Error!",
+              text: "Something went wrong.",
+              icon: "error",
+            });
+            console.error(err);
           });
       }
     });

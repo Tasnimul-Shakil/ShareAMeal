@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import footerLogo from "../../../assets/react.svg";
+import footerLogo from "../../../assets/ShareMeal.svg";
 import { FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
@@ -15,7 +15,7 @@ const Footer = () => {
         <aside>
           <img className="w-10" onClick={scrollToTop} src={footerLogo} alt="" />
           <p className="font-semibold ">
-          TravelCraft Industries Ltd.
+            ShareAMeal Industries Ltd.
             <br />
             Providing reliable tech since 1992
           </p>
@@ -26,7 +26,7 @@ const Footer = () => {
             <a className="link link-hover">Home</a>
           </Link>
           <Link to="/ViewAllCards" onClick={scrollToTop}>
-            <a className="link link-hover">Tourist Spots</a>
+            <a className="link link-hover">Available Foods</a>
           </Link>
           <Link to="/AllBlogs" onClick={scrollToTop}>
             <a className="link link-hover">All Blogs </a>
@@ -83,7 +83,7 @@ const Footer = () => {
       <footer className="footer footer-center p-4 ">
         <aside>
           <p>
-            Copyright © 2024 - All right reserved by Estatery Industries Ltd
+            Copyright © 2024 - All right reserved by ShareMeal Industries Ltd
           </p>
         </aside>
       </footer>

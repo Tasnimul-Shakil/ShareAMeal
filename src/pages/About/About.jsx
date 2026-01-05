@@ -15,9 +15,9 @@ const About = () => {
   const teamMembers = useLoaderData();
   // console.log(teamMembers, "Team members");
   const stats = [
-    { id: 1, name: "Trips Planned Every 24 Hours", value: "44 million" },
-    { id: 2, name: "Countries Explored", value: "$119 trillion" },
-    { id: 3, name: "Happy Travelers", value: "46,000" },
+    { id: 1, name: "Meals Shared Every 24 Hours", value: "44 million" },
+    { id: 2, name: "Communities Connected", value: "$119 trillion" },
+    { id: 3, name: "People Impacted Globally", value: "46,000" },
   ];
   return (
     <div className="container mx-auto">
@@ -42,13 +42,14 @@ const About = () => {
         <div className="hero-content text-center text-neutral-content">
           <div className="">
             <h1 className="mb-5 text-4xl font-bold text-white">
-              About TravelCraft
+              About ShareAMeal
             </h1>
             <p className="mb-5">
-              TravelCraft revolutionizes the travel experience with expertise,
-              transparency, and personalized service, guiding travelers on
-              unforgettable journeys. Your trusted partner in exploration and
-              adventure.
+              ShareAMeal is transforming the way communities share food by
+              combining trust, transparency, and smart technology. We make it
+              easy for individuals, families, and organizations to share surplus
+              food safely and responsibly. Your trusted partner in reducing
+              waste, supporting others, and building a stronger community.
             </p>
           </div>
         </div>
@@ -62,17 +63,19 @@ const About = () => {
           <div className="lg:px-2 px-4">
             <h1 className="text-3xl font-bold">Our Mission</h1>
             <p className="pt-6 ">
-              At TravelCraft, our mission is to transform the travel experience
-              into an empowering and enriching adventure for our clients. We are
-              dedicated to redefining industry standards by prioritizing the
-              unique preferences and aspirations of each traveler we serve. Our
-              goal is not just to facilitate trips but to create lasting
-              memories founded on trust, integrity, and personalized service. We
-              strive to guide individuals, families, and groups through every
-              step of their journey, whether it’s exploring new destinations or
-              planning the perfect getaway. With a relentless focus on
-              innovation and excellence, we aim to surpass expectations,
-              delivering unparalleled value and peace of mind to our travelers.
+              At <span className="text-[#55D4AB] text-bold">ShareAMeal</span>,
+              our mission is to redefine how communities manage surplus food by
+              creating a platform built on trust, compassion, and transparency.
+              We aim to make food-sharing safe, accessible, and meaningful for
+              everyone—whether you’re donating extra meals, requesting food
+              support, or simply reducing waste at home. We don’t just connect
+              people with food—we connect people with opportunities to make a
+              real difference. By empowering donors and recipients with clear
+              information, verified safety standards, and user-friendly tools,
+              we strive to create a system where every shared meal adds value,
+              dignity, and hope. Our focus on continuous improvement ensures
+              that we deliver exceptional convenience, reliability, and positive
+              community impact—one meal at a time
             </p>
           </div>
         </div>
@@ -86,19 +89,16 @@ const About = () => {
           <div className="lg:px-2 px-4 lg:pt-0 pt-5">
             <h1 className="text-3xl font-bold">Our Vision</h1>
             <p className="pt-2 lg:pl-24">
-              Integrity lies at the heart of everything we do at TravelCraft. It
-              forms the cornerstone of our values, alongside professionalism,
-              transparency, and a steadfast commitment to excellence. We conduct
-              ourselves with honesty and integrity in all our interactions,
-              ensuring that our clients can trust us implicitly. Our dedication
-              to professionalism ensures that every traveler receives the
-              highest quality service, tailored to their unique needs and
-              preferences. Transparency is fundamental to our approach, as we
-              believe in open communication and accountability throughout the
-              entire travel planning process. At TravelCraft, we are driven by a
-              passion for innovation and continuous improvement, constantly
-              seeking new ways to enhance the traveler experience and set new
-              benchmarks for excellence in the industry.
+              ntegrity is the foundation of everything we do at ShareAMeal. Our
+              vision is to build a world where no good food goes to waste and
+              communities thrive through mutual support. We operate with
+              honesty, responsibility, and full transparency, ensuring users can
+              trust every step of the process—from listing food to receiving it.
+              Professionalism and clarity guide our interactions, while our
+              commitment to innovation pushes us to improve safety, efficiency,
+              and accessibility. Our long-term vision is to set new standards
+              for food-sharing platforms globally—where technology, community,
+              and sustainability unite to create a better future for all.
             </p>
           </div>
         </div>
@@ -106,11 +106,12 @@ const About = () => {
       <div className="py-14">
         <div className="mx-auto px-6 lg:px-8">
           <h2 className="text-4xl font-bold text-center pb-4">
-            TravelCraft Overview
+            ShareAMeal Overview
           </h2>
           <p className="text-center lg:px-24 text-sm">
-            TravelCraft offers a comprehensive travel platform, connecting
-            travelers, destinations, and travel professionals seamlessly.
+            ShareAMeal provides a complete food-sharing ecosystem, connecting
+            donors, recipients, communities, and organizations in one simple
+            platform.
           </p>
           <dl className="grid grid-cols-1 gap-x-8 gap-y-16 text-center pt-6 lg:grid-cols-3">
             {stats.map((stat) => (

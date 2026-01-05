@@ -40,7 +40,7 @@ const UpdateFoodInfo = () => {
       cardPhoto: form.cardPhoto.value,
     };
 
-    fetch(`http://localhost:3000/foodInfo/${food._id}`, {
+    fetch(`https://shareamealbackend.vercel.app/foodInfo/${food._id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(updatedFood),

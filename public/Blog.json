@@ -2,316 +2,325 @@
   {
     "blog_id": 1,
     "time": "2024-06-05",
-    "title": "The Future of Travel and Tourism",
-    "card_image": "https://i.ibb.co/Mk7jLyn/9-2.png",
-    "cover_image": "https://i.ibb.co/PGhc1KZ/1.png",
-    "categories": "Travel & Tourism",
-    "description": "The travel and tourism industry is evolving rapidly, driven by technological advancements and changing consumer preferences. As more travelers seek unique and personalized experiences, the industry is adapting to meet these demands through innovations like virtual reality tours and AI-powered travel planning. Sustainability is also becoming a priority, with a growing emphasis on eco-friendly practices and destinations. These trends are reshaping the way we explore the world.",
-    "subtitle1": "Sustainable Tourism",
-    "subtitle1_description": "Sustainable tourism is gaining traction as travelers become more aware of their environmental impact. From eco-friendly accommodations to carbon offset programs, the industry is finding ways to reduce its footprint. Destinations are promoting responsible travel practices, encouraging visitors to respect local cultures and ecosystems. By focusing on sustainability, the travel industry aims to preserve destinations for future generations while providing meaningful experiences for today's travelers.",
-    "subtitle2": "Tech-Enhanced Travel",
-    "subtitle2_description": "Technology is revolutionizing the travel experience, making it easier and more enjoyable than ever before. Virtual reality allows potential tourists to explore destinations before booking, while AI-powered chatbots provide instant assistance and personalized recommendations. Smart luggage with GPS tracking and biometric security features are enhancing travel convenience and safety. These tech advancements are transforming how we plan and enjoy our trips, offering a seamless and immersive travel experience.",
-    "subtitle3": "Millennial Travel Trends",
-    "subtitle3_description": "Millennials are redefining travel with their preference for authentic and off-the-beaten-path experiences. They value cultural immersion, adventure, and social media-worthy destinations. This generation is also more likely to prioritize sustainability, choosing eco-friendly accommodations and activities. The rise of remote work has led to the popularity of 'workations,' where millennials blend work and travel. Understanding these trends is crucial for the travel industry to cater to the evolving needs of millennial travelers.",
+    "title": "The Future of Food and Culinary Trends",
+    "card_image": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg",
+    "cover_image": "https://www.parisgourmet.com/hubfs/10-culinary-trends-2024.jpg",
+    "categories": "Food Trends",
+    "description": "The culinary world is evolving rapidly with innovative flavors, health-focused ingredients, and advanced cooking techniques. Chefs and home cooks are embracing fusion cuisines, plant-based dishes, and smart kitchen gadgets. Sustainability is at the forefront, with emphasis on local sourcing and minimizing food waste. These trends are reshaping how we discover, prepare, and savor food.",
+    "subtitle1": "Sustainable Eating Practices",
+    "subtitle1_description": "Sustainable eating is gaining popularity as consumers focus on reducing environmental impact. Farm-to-table movements, seasonal produce, and zero-waste cooking are leading the charge. Cooks are adopting composting, ethical sourcing, and recipes that maximize every ingredient for flavorful, planet-friendly meals.",
+    "subtitle2": "Technology in the Kitchen",
+    "subtitle2_description": "Technology is transforming cooking into a more precise and creative experience. Smart appliances, AI recipe apps, and online tutorials make gourmet results achievable at home. From sous-vide machines to personalized meal planners, these tools simplify processes and inspire new culinary adventures.",
+    "subtitle3": "Millennial Food Preferences",
+    "subtitle3_description": "Millennials are shaping food culture with their passion for visually stunning, globally inspired dishes. They favor bold tastes, vegan options, and convenient yet nutritious meals. The boom in food apps and delivery services caters to their dynamic lifestyles while prioritizing quality and diversity.",
     "author_name": "Alex Taylor",
-    "author_role": "Travel Enthusiast",
+    "author_role": "Food Enthusiast",
     "author_image": "https://i.ibb.co/6gqr0cZ/Avater3.png",
-    "image_big": "https://i.ibb.co/Y77czy7/1-1.png",
-    "image_small_1": "https://i.ibb.co/z4nzFqr/2.png",
-    "image_small_2": "https://i.ibb.co/1McPkLd/3.png",
+    "image_small_3": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/a-typical-grazing-table-could-include-an-array-of-cheese--fruits--jams--cold-cut-meats-and-finger-fo-163331320-16x9_0.jpg?VersionId=iMkZ44ZMxASmHJzB1q6Phi3lDYglMX_H&size=690:388",
+    "image_small_1": "https://static01.nyt.com/images/2024/01/10/multimedia/10Plating-Bernardin-mkjc/10Plating-Bernardin-mkjc-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "image_small_2": "https://media.self.com/photos/6841e81ab36671f7a765f6c0/2:1/w_1280,c_limit/2%20(1).jpg",
+    "image_small_4": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
       {
         "name": "Rachel Lee",
-        "designation": "Travel Blogger",
+        "designation": "Food Blogger",
         "comment_avater_image": "https://i.ibb.co/pvYrMJR/Avater4-2.png",
-        "comment": "Fantastic insights! As a travel blogger, I appreciate the emphasis on sustainability and the impact of technology on travel."
+        "comment": "Amazing insights on sustainability and kitchen tech! These are definitely influencing my daily recipes."
       },
       {
         "name": "Michael Brown",
-        "designation": "Tour Operator",
+        "designation": "Home Chef",
         "comment_avater_image": "https://i.ibb.co/TqY7Y3X/Avater4-1.png",
-        "comment": "Great article! The trends mentioned, especially millennial travel preferences, align with what we are seeing in the industry."
+        "comment": "Nailed the millennial trends. Always on the hunt for quick, tasty, and healthy ideas!"
       }
     ]
   },
   {
     "blog_id": 2,
     "time": "2024-05-10",
-    "title": "Navigating the Luxury Travel Market",
-    "card_image": "https://i.ibb.co/DVnz609/8-2.png",
-    "cover_image": "https://i.ibb.co/t2kYQtH/4.png",
-    "categories": "Luxury Travel",
-    "description": "The luxury travel market offers unparalleled opportunities for travelers seeking exclusivity and sophistication. With an array of high-end destinations ranging from private islands to five-star resorts, travelers are spoilt for choice. However, navigating this market requires a deep understanding of trends, market dynamics, and a network of trusted advisors.",
-    "subtitle1": "Emerging Luxury Destinations",
-    "subtitle1_description": "Emerging luxury destinations are capturing the attention of affluent travelers seeking unique experiences and adventures. These destinations, often located in up-and-coming cities or exotic locales, offer a blend of luxury amenities, natural beauty, and cultural attractions. From private islands in the Caribbean to luxury resorts in Southeast Asia, discerning travelers are expanding their horizons beyond traditional luxury destinations to explore new frontiers of exclusivity and indulgence.",
-    "subtitle2": "Investment Strategies in Luxury Travel",
-    "subtitle2_description": "Investing in luxury travel experiences requires a strategic approach that takes into account market conditions, destination trends, and long-term sustainability. While luxury travel can offer substantial returns in terms of personal satisfaction and unique experiences, it also comes with unique risks and challenges. Travelers must carefully assess factors such as location, exclusivity, and the potential for a unique experience before making travel decisions. Additionally, leveraging travel advisors and luxury travel clubs can provide access to exclusive experiences while mitigating individual travel risk.",
-    "subtitle3": "The Rise of Smart Travel in the Luxury Segment",
-    "subtitle3_description": "The rise of smart travel is revolutionizing the luxury travel segment, offering travelers unparalleled convenience, security, and personalized experiences. From integrated travel apps to AI-powered concierge services, today's luxury travel experiences are equipped with cutting-edge technology designed to enhance the journey. Smart features such as automated booking systems, personalized travel itineraries, and real-time updates not only improve convenience but also provide peace of mind for travelers. As the Internet of Things (IoT) continues to evolve, smart travel will become increasingly prevalent in the luxury travel market.",
+    "title": "Exploring the World of Fine Dining",
+    "card_image": "https://berriesandspice.com/wp-content/uploads/2018/08/Berries-and-Spice-How-to-plate-dishes-worthy-of-a-fine-dining-restaurant-the-complete-guide-23-scaled.jpg",
+    "cover_image": "https://berriesandspice.com/wp-content/uploads/2018/04/Berries-and-Spice-Exquisite-halibut-lemon-verbena-golden-curry-quince-and-kumquat-76.jpg",
+    "categories": "Fine Dining",
+    "description": "Fine dining delivers exceptional experiences through premium ingredients and artistic presentation. From starred restaurants to exclusive menus, food enthusiasts have abundant choices. Mastering this realm involves staying updated on trends, seasonal offerings, and expert recommendations.",
+    "subtitle1": "Emerging Fine Dining Spots",
+    "subtitle1_description": "New fine dining venues worldwide are captivating diners with creative menus and immersive settings. They combine luxury ingredients, innovative methods, and cultural elements for memorable meals that redefine gastronomy.",
+    "subtitle2": "Tips for Fine Dining Success",
+    "subtitle2_description": "Maximize fine dining by planning reservations, exploring pairings, and appreciating seasonal ingredients. Researching menus and following expert advice elevates the overall indulgence.",
+    "subtitle3": "Smart Technology in Dining",
+    "subtitle3_description": "Digital tools are enhancing fine dining with seamless bookings, virtual previews, and customized services. Features like interactive menus add contemporary flair to classic elegance.",
     "author_name": "John Smith",
-    "author_role": "Travel Advisor",
+    "author_role": "Food Critic",
     "author_image": "https://i.ibb.co/QCm4kjd/Avater1.png",
-    "image_small_1": "https://i.ibb.co/M5QFghL/5.png",
-    "image_big": "https://i.ibb.co/7Y9WMtP/7-2.png",
-    "image_small_2": "https://i.ibb.co/wJWnSRG/6.png",
+    "image_small_1": "https://assets.lightspeedhq.com/img/2019/07/8aac85b2-blog_foodpresentationtipsfromtopchefs.jpg",
+    "image_small_3": "https://www.upmenu.com/wp-content/uploads/2025/07/12-food-presentation-matching-plating-style-to-restaurant-concept.jpg",
+    "image_small_2": "https://www.tastingtable.com/img/gallery/16-restaurant-worthy-tips-for-plating-sauces-at-home/start-with-the-right-base-1736361175.jpg",
+    "image_small_4": "https://images.pexels.com/photos/958146/pexels-photo-958146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
       {
         "name": "Sarah Williams",
-        "designation": "Luxury Traveler",
+        "designation": "Gourmet Enthusiast",
         "comment_avater_image": "https://i.ibb.co/2vMsFRH/Avater4.png",
-        "comment": "I agree that understanding investment strategies is crucial in the luxury travel market. It's essential to weigh the risks and rewards carefully."
+        "comment": "Excellent advice on pairings and seasonality – they truly elevate any meal!"
       },
       {
         "name": "Michael Brown",
-        "designation": "Travel Enthusiast",
+        "designation": "Food Lover",
         "comment_avater_image": "https://i.ibb.co/mvCPf4G/Avater5-5.png",
-        "comment": "The rise of smart travel in the luxury segment is fascinating. I'm curious to see how technology will continue to shape the future of luxury travel."
+        "comment": "Love how tech is modernizing fine dining. Excited for more innovations!"
       }
     ]
   },
   {
     "blog_id": 3,
     "time": "2024-05-08",
-    "title": "The Impact of COVID-19 on Travel and Tourism",
-    "card_image": "https://i.ibb.co/27W3BJT/6-2.png",
-    "cover_image": "https://i.ibb.co/FXBTxL4/7.png",
-    "categories": "Travel Insights",
-    "description": "The COVID-19 pandemic has had a profound impact on the travel and tourism sector, reshaping trends and challenging traditional business models. With lockdowns and travel restrictions becoming the new normal, demand for travel services declined sharply, leading to vacancies and downward pressure on prices. Travel companies faced unprecedented challenges as consumer behavior shifted towards local and virtual experiences, prompting cancellations and bankruptcies. However, the pandemic has also accelerated certain trends, such as the rise of digital tourism and the demand for safe, sustainable travel options.",
-    "subtitle1": "Adapting Travel Services for Remote Work",
-    "subtitle1_description": "The shift towards remote work has forced travel businesses to rethink their service offerings and design strategies. Many companies are adopting hybrid travel models that combine remote work and leisure, reducing the need for traditional business travel. As a result, travel agencies and accommodations are investing in flexible packages, virtual meeting technologies, and wellness amenities to attract clients and accommodate changing preferences. Additionally, the concept of 'workations', where people travel to scenic locations and work remotely, is gaining traction.",
-    "subtitle2": "Revitalizing Travel Experiences for the Digital Age",
-    "subtitle2_description": "The travel sector is undergoing a digital transformation as travelers adapt to new preferences and behaviors. Travel companies are embracing omnichannel strategies that integrate online and offline experiences to provide seamless customer journeys. This includes implementing virtual tours, contactless services, and AI-driven travel assistants to enhance convenience and safety. Additionally, destinations are repurposing their offerings to include virtual experiences and hybrid events that combine physical and digital elements to attract modern travelers.",
-    "subtitle3": "The Evolution of Sustainable Tourism",
-    "subtitle3_description": "The pandemic has accelerated the evolution of sustainable tourism as travelers become more conscious of their environmental impact. Demand for eco-friendly accommodations, experiences, and transportation options has surged as tourists strive to minimize their carbon footprint. Destinations that prioritize sustainability and offer nature-based experiences are particularly sought after, driving up interest and investment in these areas. Additionally, advancements in green technologies and sustainable practices are transforming the travel industry, making it more resilient and environmentally friendly.",
+    "title": "How Home Cooking Boomed During the Pandemic",
+    "card_image": "https://static01.nyt.com/images/2020/06/17/dining/17pantry-blog/17pantry-blog-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=14b64db960b1dcf62ce2c3141f98c522ce81717d53a406a2f41f32f40bf4e9e5&k=ZQJBKqZ0VN&tw=1",
+    "cover_image": "https://www.foodandwine.com/thmb/4uBm6D-tgU95pR-aERLHiTDS-D0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/From-Banana-Bread-to-Sourdough-Which-Cooking-Project-Helped-You-Cope-with-the-Pandemic-FT-BLOG0325-3a4a647f13aa424aa5864caafa94c70c.jpg",
+    "categories": "Home Cooking",
+    "description": "The pandemic transformed eating habits, sparking a surge in home cooking and comfort foods. People experimented with baking, new recipes, and healthier choices. It accelerated trends like delivery services, online shopping, and nutrient-rich ingredients.",
+    "subtitle1": "Adapting Recipes for Everyday Life",
+    "subtitle1_description": "Home cooks shifted to efficient one-pan dishes and batch prep to fit busy routines. Versatile recipes became staples for family meals.",
+    "subtitle2": "Digital Tools Revolutionizing Cooking",
+    "subtitle2_description": "Virtual classes, recipe apps, and delivery boomed, making global cuisines accessible and safe at home.",
+    "subtitle3": "Rise of Healthy and Sustainable Choices",
+    "subtitle3_description": "Focus on wellness led to more plant-based dishes, ferments, and local ingredients, with waste reduction in mind.",
     "author_name": "Emily Johnson",
-    "author_role": "Travel Consultant",
+    "author_role": "Recipe Developer",
     "author_image": "https://i.ibb.co/xY3RQvy/Avater5.png",
-    "image_small_1": "https://i.ibb.co/6s3gcvW/8.png",
-    "image_big": "https://i.ibb.co/yQbPjvP/3-2.png",
-    "image_small_2": "https://i.ibb.co/P6KQQVh/9.png",
+    "image_small_1": "https://www.maangchi.com/wp-content/uploads/2021/03/pandemic-bread-scaled.jpg",
+    "image_small_3": "https://images.food52.com/JIbmEkn1MyXnkW1Y9vbI18YASyo=/bbd7303b-22da-45ce-a451-b2b9efadbd1d--2021-0928_genius-banana-bread_3x2_julia-gartland_017.jpg",
+    "image_small_2": "https://nkhensanimedits.com/wp-content/uploads/2021/02/20210220_184656.jpg?w=1568",
+    "image_small_4": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
       {
         "name": "David Miller",
-        "designation": "Travel Agent",
+        "designation": "Home Cook",
         "comment_avater_image": "https://i.ibb.co/5hBjMw2/Avater5-4.png",
-        "comment": "Adapting travel services for remote work is crucial for maintaining client demand. Flexibility and technology are key."
+        "comment": "Batch cooking was a lifesaver. Simple recipes made all the difference!"
       },
       {
         "name": "Sophia Lee",
-        "designation": "Tourism Developer",
+        "designation": "Food Blogger",
         "comment_avater_image": "https://i.ibb.co/68zgbtw/Avater5-3.png",
-        "comment": "It's interesting to see how travel experiences are being revitalized with digital transformation. Adapting to changing traveler needs is essential for success in the travel sector."
+        "comment": "Digital recipes opened up so many new flavors from home."
       }
     ]
   },
   {
     "blog_id": 4,
     "time": "2024-05-06",
-    "title": "Investing in Vacation Properties: Tips for Success",
-    "card_image": "https://i.ibb.co/6DXWy1n/5-2.png",
-    "cover_image": "https://i.ibb.co/BKqd3Gc/10.png",
-    "categories": ["Travel Investment"],
-    "description": "Vacation properties can be a lucrative investment opportunity for those looking to generate passive income and enjoy long-term appreciation. However, success in the vacation rental market requires careful planning, due diligence, and a solid understanding of market fundamentals. From selecting the right location to managing guests effectively, here are some tips for success when investing in vacation properties.",
-    "subtitle1": "Choosing the Right Location",
-    "subtitle1_description": "Location is one of the most critical factors to consider when investing in vacation properties. A desirable location with strong demand from tourists can help attract higher rental rates and ensure low vacancy rates. Look for destinations with popular attractions, good amenities, and proximity to transportation hubs. Additionally, consider the overall economic and tourism trends of the area to gauge its long-term growth potential.",
-    "subtitle2": "Understanding the Vacation Rental Market",
-    "subtitle2_description": "Before investing in vacation properties, it's essential to conduct thorough market research to understand supply and demand dynamics, rental rates, and occupancy trends. Analyze comparable properties in the area to determine competitive rental rates and assess the feasibility of your investment. Pay attention to local regulations, zoning laws, and short-term rental regulations that may impact your ability to rent out the property and manage guests effectively.",
-    "subtitle3": "Effective Property Management",
-    "subtitle3_description": "Effective property management is key to maximizing returns and minimizing risks when investing in vacation properties. Develop a comprehensive management plan that includes guest screening procedures, maintenance schedules, and booking policies. Establish clear communication channels with guests and respond promptly to maintenance requests or issues to ensure guest satisfaction and positive reviews. Consider hiring a professional property management company if you lack the time or expertise to manage the property yourself.",
+    "title": "Mastering Meal Prep: Tips for Healthy Eating",
+    "card_image": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/01/healthy-meal-prep-containers-chicken-rice-vegetables.jpg?quality=82&strip=1",
+    "cover_image": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2024/12/pexels-ella-olsson-572949-1640775-1024x819.jpg",
+    "categories": "Healthy Recipes",
+    "description": "Meal prep is an effective strategy for saving time, cutting waste, and maintaining nutritious habits. Organized planning and smart recipe choices lead to balanced weeks ahead.",
+    "subtitle1": "Selecting Fresh Ingredients",
+    "subtitle1_description": "Prioritize quality produce and proteins for flavorful, nutrient-dense meals that store well.",
+    "subtitle2": "Understanding Meal Prep Basics",
+    "subtitle2_description": "Research portion sizes, variety, and storage to build sustainable routines.",
+    "subtitle3": "Efficient Preparation Techniques",
+    "subtitle3_description": "Streamline chopping, cooking, and portioning for consistent success and enjoyment.",
     "author_name": "Michael Brown",
-    "author_role": "Travel Investor",
+    "author_role": "Nutrition Enthusiast",
     "author_image": "https://i.ibb.co/2q8MTWb/Avater2.png",
-    "image_small_1": "https://i.ibb.co/Z8qxBVt/11.png",
-    "image_big": "https://i.ibb.co/c6xDfpJ/9-1.png",
-    "image_small_2": "https://i.ibb.co/1Mjk31S/12.png",
+    "image_small_1": "https://www.carrieelle.com/wp-content/uploads/2016/06/lr-17556-scaled.jpg",
+    "image_small_3": "https://substackcdn.com/image/fetch/$s_!LeHR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5bfcea0-eaec-4f50-bfaf-fd83150690fa_2087x1536.jpeg",
+    "image_small_2": "https://www.trainerize.com/blog/wp-content/uploads/2023/11/BLOG-HEADER-OVERLAYS-1200-X-800-2.jpg",
+    "image_small_4": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
       {
         "name": "Sarah Williams",
-        "designation": "Vacation Property Owner",
+        "designation": "Healthy Eater",
         "comment_avater_image": "https://i.ibb.co/Zx0KQKx/Avater5-2.png",
-        "comment": "Effective property management is crucial for success in the vacation rental market. It's essential to prioritize guest satisfaction and address maintenance issues promptly."
+        "comment": "Prep techniques are game-changers for staying on track!"
       },
       {
         "name": "David Clark",
-        "designation": "Travel Agent",
+        "designation": "Meal Planner",
         "comment_avater_image": "https://i.ibb.co/JqCRvks/Avater5-1.png",
-        "comment": "Choosing the right location is key when investing in vacation properties. It's essential to consider factors like proximity to attractions and amenities."
+        "comment": "Ingredient selection makes prep so much better."
       }
     ]
   },
   {
     "blog_id": 5,
     "time": "2024-05-04",
-    "title": "The Rise of Co-Living Spaces: A New Travel Trend",
-    "card_image": "https://i.ibb.co/hF9hd4V/8-1.png",
-    "cover_image": "https://i.ibb.co/tc2kCTd/13.png",
-    "categories": "Travel Trends",
-    "description": "Co-living spaces are emerging as a popular trend in the travel industry, especially among millennials and young professionals seeking affordable, community-oriented accommodations. These shared living spaces offer travelers the opportunity to rent a private bedroom while sharing common areas such as kitchens, living rooms, and amenities like gyms or coworking spaces. Co-living providers are capitalizing on this trend by offering flexible stay terms, all-inclusive rates, and a range of social activities to foster a sense of community and belonging.",
-    "subtitle1": "Meeting the Needs of Millennial Travelers",
-    "subtitle1_description": "Co-living spaces are uniquely suited to meet the needs and preferences of millennial travelers, who prioritize flexibility, affordability, and social connections in their accommodation choices. By offering fully furnished units, utilities, and amenities included in the rate, co-living providers eliminate many of the hassles associated with traditional accommodations, such as setting up utilities or buying essentials. Additionally, the communal nature of co-living fosters social interaction and networking opportunities, making it an attractive option for young professionals traveling to a new city or looking to expand their social circle.",
-    "subtitle2": "Addressing Affordability Challenges",
-    "subtitle2_description": "Co-living spaces address the affordability challenges faced by many travelers, especially in high-cost urban areas where accommodation costs are out of reach for young professionals and students. By sharing living expenses with other travelers, guests can significantly reduce their accommodation costs while enjoying access to premium amenities and services typically found in luxury hotels. Co-living providers also offer flexible stay terms, allowing guests to rent on a month-to-month basis or for shorter durations, providing greater financial flexibility and mobility.",
-    "subtitle3": "Creating a Sense of Community",
-    "subtitle3_description": "One of the key attractions of co-living spaces is the sense of community and camaraderie they offer travelers. By fostering a collaborative and inclusive environment through shared activities, events, and communal spaces, co-living providers create opportunities for guests to connect, collaborate, and build meaningful relationships. From cooking classes and game nights to networking events and volunteer opportunities, co-living communities provide a platform for guests to socialize, learn, and grow together, enhancing their overall travel experience.",
+    "title": "The Exciting World of Street Food",
+    "card_image": "https://www.storylines.com/hubfs/Blogs/Best%20Street%20Markets/View%20of%20Amphawa%20Floating%20market%2C%20Thailand.jpg",
+    "cover_image": "https://images.squarespace-cdn.com/content/v1/6143d3fd8a73ec171fd36fda/7e1f77dc-c835-4d6d-ac42-ec1f80992218/Bazurto+Market+%E2%80%93+Cartagena%2C+Colombia.jpg",
+    "categories": "Street Food",
+    "description": "Street food offers vibrant, authentic flavors from markets around the globe. Affordable and diverse, it's perfect for adventurous eaters seeking community and culture through cuisine.",
+    "subtitle1": "Discovering Global Street Eats",
+    "subtitle1_description": "Emerging street food scenes blend local traditions with bold innovations for unique tastes.",
+    "subtitle2": "Tips for Street Food Adventures",
+    "subtitle2_description": "Focus on hygiene, variety, and local favorites for rewarding experiences.",
+    "subtitle3": "Building Community Through Food",
+    "subtitle3_description": "Street stalls foster connections via shared meals and lively atmospheres.",
     "author_name": "Sophia Lee",
-    "author_role": "Travel Analyst",
+    "author_role": "Food Explorer",
     "author_image": "https://i.ibb.co/myX6MvQ/Avater6.png",
-    "image_small_1": "https://i.ibb.co/jRXbxRb/14.png",
-    "image_big": "https://i.ibb.co/ggwdNKh/5-1.png",
-    "image_small_2": "https://i.ibb.co/VNnnH3f/15.png",
+    "image_small_1": "https://static.toiimg.com/thumb/111541857/Street-food-destinations.jpg?width=636&height=358&resize=4",
+    "image_small_3": "https://assets3.thrillist.com/v1/image/3078512/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70",
+    "image_small_2": "https://thumbs.dreamstime.com/b/grilled-chicken-colorful-salads-display-bustling-food-market-vibrant-street-stall-local-under-natural-daylight-shot-400872879.jpg",
+    "image_small_4": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
-        {
-            "name": "John Smith",
-            "designation": "Co-living Resident",
-            "comment_avater_image": "https://i.ibb.co/NS5wYyf/Avater5.png",
-            "comment": "I've had a great experience living in a co-living space. It's been an excellent way to meet new people and save on accommodation costs."
-        },
-        {
-            "name": "Emily Johnson",
-            "designation": "Real Estate Developer",
-            "comment_avater_image": "https://i.ibb.co/5446WdY/Avater6-5.png",
-            "comment": "The rise of co-living spaces is reshaping the accommodation market, particularly in urban areas where affordability is a major concern."
-        }
+      {
+        "name": "John Smith",
+        "designation": "Street Food Fan",
+        "comment_avater_image": "https://i.ibb.co/NS5wYyf/Avater5.png",
+        "comment": "Street food is unbeatable for authentic flavors and vibes."
+      },
+      {
+        "name": "Emily Johnson",
+        "designation": "Culinary Traveler",
+        "comment_avater_image": "https://i.ibb.co/5446WdY/Avater6-5.png",
+        "comment": "These markets are transforming food discovery worldwide."
+      }
     ]
   },
   {
     "blog_id": 6,
     "time": "2024-05-02",
-    "title": "The Pros and Cons of Investing in Travel Accommodations",
-    "card_image": "https://i.ibb.co/rsmfyNV/7-1.png",
-    "cover_image": "https://i.ibb.co/8xFk8DX/16.png",
-    "categories": "Travel Investment",
-    "description": "Investing in travel accommodations can offer lucrative returns and portfolio diversification opportunities for investors. However, it also comes with unique risks and challenges that must be carefully considered before diving in. From boutique hotels and vacation rentals to hostels and co-living spaces, each type of travel accommodation presents its own set of pros and cons for investors.",
-    "subtitle1": "Pros of Travel Accommodation Investment",
-    "subtitle1_description": "Travel accommodations offer several advantages for investors, including potentially higher rental income and appreciation compared to residential properties. Travel bookings tend to be seasonal but can provide high returns during peak periods, offering a reliable income stream and reduced vacancy risk. Additionally, travel accommodations can be leveraged to access financing and scale your investment portfolio. With proper due diligence and management, investing in travel accommodations can be a valuable addition to a diversified investment strategy.",
-    "subtitle2": "Cons of Travel Accommodation Investment",
-    "subtitle2_description": "Despite its potential for high returns, investing in travel accommodations carries certain risks and drawbacks. These properties typically require larger upfront investments and ongoing maintenance costs compared to residential properties. Moreover, travel accommodations may experience high guest turnover and booking commissions, leading to periods of vacancy and income volatility. Additionally, economic downturns or shifts in travel trends can impact the demand for travel accommodations, affecting property values and rental income.",
-    "subtitle3": "Key Considerations for Travel Accommodation Investors",
-    "subtitle3_description": "Before investing in travel accommodations, it's essential to conduct thorough market research, assess the property's physical condition and financial performance, and evaluate potential risks and rewards. Consider factors such as location, guest reviews, booking trends, and market demand to make informed investment decisions. Additionally, consult with travel industry professionals, such as property managers, travel agents, and hospitality consultants, to help navigate the complexities of travel accommodation investing and maximize your chances of success.",
+    "title": "Indulgent Chocolate Desserts: Pros and Tips",
+    "card_image": "https://www.foodandwine.com/thmb/G8SuZEOz_nZDI-2JHStyOGA4eqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Bear-Chocolate-Cake-FT-RECIPE0323-a6a4c882ba8f49e69caeaeda83abbe38.jpg",
+    "cover_image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/4/12/0/FNM_050118-Chocolate-Candy-Bar-Layer-Cake_s4x3.jpg.rend.hgtvcom.1280.960.85.suffix/1523547441314.webp",
+    "categories": "Desserts",
+    "description": "Chocolate desserts provide rich satisfaction and joy for sweet cravings. From cakes to mousses, they suit various occasions with varying complexity.",
+    "subtitle1": "Benefits of Chocolate Treats",
+    "subtitle1_description": "They offer comfort, decadence, and mood-boosting indulgence.",
+    "subtitle2": "Considerations for Desserts",
+    "subtitle2_description": "Balance richness with portions and preparation time.",
+    "subtitle3": "Key Tips for Perfect Results",
+    "subtitle3_description": "Choose quality cocoa and pairings for elevated enjoyment.",
     "author_name": "David Miller",
-    "author_role": "Travel Broker",
+    "author_role": "Dessert Expert",
     "author_image": "https://i.ibb.co/8g5Dk6Z/Avater7.png",
-    "image_small_1": "https://i.ibb.co/tXwcRJN/17.png",
-    "image_big": "https://i.ibb.co/rsmfyNV/7-1.png",
-    "image_small_2": "https://i.ibb.co/Zc8fBFK/18.png",
+    "image_small_1": "https://www.allrecipes.com/thmb/HKTgJj_brdt5yMAMvFPvpGWdbRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20784-ice-cream-cake-ddmfs-step-4x3-49b3ca7af5074beeb60c02bd6f569624.jpg",
+    "image_small_3": "https://i.ytimg.com/vi/8tf-MzChjoo/maxresdefault.jpg",
+    "image_small_2": "https://images.immediate.co.uk/production/volatile/sites/30/2023/03/Triple-chocolate-peanut-butter-layer-cake-5adce80-e1686660546200.jpg?quality=90&fit=700,466",
+    "image_small_4": "https://images.pexels.com/photos/1098595/pexels-photo-1098595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
-        {
-            "name": "Sarah Williams",
-            "designation": "Travel Investor",
-            "comment_avater_image": "https://i.ibb.co/6nfQCzY/Avater6-4.png",
-            "comment": "Travel accommodations offer attractive returns, but the risks must be carefully managed. Thorough due diligence is key."
-        },
-        {
-            "name": "Michael Brown",
-            "designation": "Property Developer",
-            "comment_avater_image": "https://i.ibb.co/z5F3LcZ/Avater6-3.png",
-            "comment": "I've found travel accommodations to be a valuable addition to my investment portfolio. It's essential to diversify across different property types and markets."
-        }
+      {
+        "name": "Sarah Williams",
+        "designation": "Sweet Lover",
+        "comment_avater_image": "https://i.ibb.co/6nfQCzY/Avater6-4.png",
+        "comment": "Chocolate desserts are irresistible, just watch the calories!"
+      },
+      {
+        "name": "Michael Brown",
+        "designation": "Baker",
+        "comment_avater_image": "https://i.ibb.co/z5F3LcZ/Avater6-3.png",
+        "comment": "Always a highlight in any menu or home baking."
+      }
     ]
   },
   {
     "blog_id": 7,
     "time": "2024-04-30",
-    "title": "The Role of PropTech in Shaping the Future of Travel Accommodations",
-    "card_image": "https://i.ibb.co/1dhvXP7/6-1.png",
-    "cover_image": "https://i.ibb.co/cQSRjGv/Frame-14080.png",
-    "categories": "Travel Technology",
-    "description": "PropTech, short for property technology, is revolutionizing the travel accommodation industry by leveraging digital innovations to streamline processes, enhance efficiency, and improve the overall customer experience. From virtual property tours and AI-powered analytics to blockchain-based transactions and smart building management systems, PropTech solutions are reshaping how accommodations are booked, managed, and experienced.",
-    "subtitle1": "Virtual Property Tours and 3D Visualization",
-    "subtitle1_description": "Virtual property tours and 3D visualization technologies allow potential guests to explore accommodations remotely from the comfort of their homes. These immersive experiences provide a realistic sense of space and layout, helping users make informed decisions without the need for physical visits. By reducing the time and effort required for property viewings, virtual tours can accelerate the booking process while minimizing disruptions to property owners and current occupants.",
-    "subtitle2": "AI-Powered Analytics and Predictive Modeling",
-    "subtitle2_description": "AI-powered analytics and predictive modeling are transforming how travel accommodation professionals analyze market trends, forecast booking rates, and identify investment opportunities. Machine learning algorithms process vast amounts of data from various sources, such as booking records, traveler reviews, and economic indicators, to generate actionable insights and forecasts. Whether optimizing property portfolios, assessing risk factors, or predicting guest preferences, AI-driven analytics enable more informed decision-making and better risk management.",
-    "subtitle3": "Blockchain and Smart Contracts in Travel Bookings",
-    "subtitle3_description": "Blockchain technology and smart contracts offer secure, transparent, and efficient solutions for travel bookings, reducing friction, costs, and the risk of fraud. By digitizing booking records and automating transaction processes, blockchain eliminates the need for intermediaries and streamlines the booking and payment process. Smart contracts enable parties to execute and enforce agreements automatically based on predefined conditions, enhancing trust, speed, and reliability in travel bookings.",
+    "title": "Perfecting Homemade Pizza",
+    "card_image": "https://images.pexels.com/photos/7531438/pexels-photo-7531438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "cover_image": "https://www.foodandwine.com/thmb/7BpSJWDh1s-2M2ooRPHoy07apq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mozzarella-pizza-margherita-FT-RECIPE0621-11fa41ceb1a5465d9036a23da87dd3d4.jpg",
+    "categories": "Italian Cuisine",
+    "description": "Homemade pizza allows endless customization with fresh dough and toppings, bringing authentic Italian flavors to your kitchen.",
+    "subtitle1": "Classic Dough Techniques",
+    "subtitle1_description": "Master fermentation and stretching for light, crispy bases.",
+    "subtitle2": "Topping and Baking Secrets",
+    "subtitle2_description": "Use high-quality ingredients and proper oven heat for best results.",
+    "subtitle3": "Modern Twists on Tradition",
+    "subtitle3_description": "Experiment with tools and apps for consistent perfection.",
     "author_name": "Olivia Smith",
-    "author_role": "PropTech Consultant",
+    "author_role": "Pizza Specialist",
     "author_image": "https://i.ibb.co/Zd08DhP/Avater4.png",
-    "image_small_1": "https://i.ibb.co/3zd52Cb/Frame-14082.png",
-    "image_big": "https://i.ibb.co/Ypzzb5c/5-1.png",
-    "image_small_2": "https://i.ibb.co/RTYgGtd/Frame-14081.png",
+    "image_small_1": "https://theeastcoastkitchen.com/nitropack_static/JVwXKMegmYUHkLLRqdRKKXZNEMXPKMRc/assets/images/optimized/rev-ceaf765/theeastcoastkitchen.com/wp-content/uploads/2025/07/Margherita-pizza-08-1-edited-scaled.jpg",
+    "image_small_3": "https://cookingitalians.com/wp-content/uploads/2024/11/Margherita-Pizza.jpg",
+    "image_small_2": "https://www.iheartnaptime.net/wp-content/uploads/2025/07/margherita-pizza-recipe-i-heart-naptime-6.jpg",
+    "image_small_4": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
-        {
-            "name": "John Smith",
-            "designation": "Travel Accommodation Developer",
-            "comment_avater_image": "https://i.ibb.co/FnMh6f8/Avater6-2.png",
-            "comment": "I'm excited about the potential of PropTech to transform the travel industry. Virtual tours and AI analytics are particularly promising."
-        },
-        {
-            "name": "Emily Johnson",
-            "designation": "Urban Planner",
-            "comment_avater_image": "https://i.ibb.co/7t9pvNt/Avater6-1.png",
-            "comment": "Blockchain and smart contracts have the potential to revolutionize travel bookings by making them more secure and transparent. It's an exciting development for the industry."
-        }
+      {
+        "name": "John Smith",
+        "designation": "Pizza Lover",
+        "comment_avater_image": "https://i.ibb.co/FnMh6f8/Avater6-2.png",
+        "comment": "Homemade pizza is always worth the effort!"
+      },
+      {
+        "name": "Emily Johnson",
+        "designation": "Home Baker",
+        "comment_avater_image": "https://i.ibb.co/7t9pvNt/Avater6-1.png",
+        "comment": "Fresh ingredients make it restaurant-quality."
+      }
     ]
   },
   {
     "blog_id": 8,
     "time": "2024-04-28",
-    "title": "The Impact of Green Building Certification on Travel Accommodations",
-    "card_image": "https://i.ibb.co/5cYwgQC/4-2.png",
-    "cover_image": "https://i.ibb.co/THcMCky/Frame-14079.png",
-    "categories": "Sustainability in Travel",
-    "description": "Green building certification programs, such as LEED (Leadership in Energy and Environmental Design) and BREEAM (Building Research Establishment Environmental Assessment Method), play a significant role in promoting sustainability and driving market transformation in the travel accommodation sector. These voluntary certification programs evaluate accommodations based on various criteria, including energy efficiency, water conservation, indoor air quality, and materials selection. Achieving green building certification not only demonstrates a commitment to environmental stewardship but also enhances property value, reduces operating costs, and improves guest health and satisfaction.",
-    "subtitle1": "Benefits of Green Building Certification",
-    "subtitle1_description": "Green building certification offers numerous benefits for both property owners and guests. Certified green accommodations typically consume less energy and water, resulting in lower utility bills and operating costs over the building's lifecycle. Additionally, green buildings often command higher rents and booking rates due to their enhanced marketability, reduced environmental impact, and potential eligibility for incentives or subsidies. From improved indoor air quality to enhanced guest comfort and satisfaction, green accommodations create healthier and more sustainable environments for guests to enjoy.",
-    "subtitle2": "Market Trends and Adoption of Green Building Practices",
-    "subtitle2_description": "Market trends indicate a growing demand for green accommodations as investors, travelers, and regulators prioritize sustainability and environmental responsibility. Green building practices, such as energy-efficient design, renewable energy integration, and sustainable materials, are becoming standard industry practices rather than niche innovations. Governments and municipalities are enacting policies and regulations that incentivize or mandate green building certification for new construction and major renovations, driving widespread adoption of sustainable building practices across the globe.",
-    "subtitle3": "Challenges and Opportunities in Green Building",
-    "subtitle3_description": "While green building certification offers significant benefits, it also presents challenges and opportunities for stakeholders in the travel accommodation industry. Challenges include higher upfront costs, technical complexity, and potential certification delays or rejections. However, these challenges can be mitigated through careful planning, collaboration with experienced professionals, and leveraging financing mechanisms like green loans or tax incentives. Ultimately, the transition to green building practices represents an opportunity for innovation, differentiation, and long-term value creation in the travel accommodation market.",
+    "title": "Embracing Farm-to-Table Sustainability",
+    "card_image": "https://www.homebiogas.com/wp-content/uploads/2024/01/shutterstock_1053665876.jpg",
+    "cover_image": "https://static.wixstatic.com/media/11062b_81e996ca0ed5418e9e0ab9c2415cc1a3~mv2.jpg/v1/fill/w_640,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_81e996ca0ed5418e9e0ab9c2415cc1a3~mv2.jpg",
+    "categories": "Sustainable Food",
+    "description": "Farm-to-table emphasizes fresh, organic ingredients for healthier meals and environmental benefits.",
+    "subtitle1": "Advantages of Local Sourcing",
+    "subtitle1_description": "Fresher taste, better nutrition, and lower carbon footprint.",
+    "subtitle2": "Trends in Organic Practices",
+    "subtitle2_description": "Growing demand for transparent, eco-friendly food systems.",
+    "subtitle3": "Overcoming Sourcing Challenges",
+    "subtitle3_description": "Innovative solutions for consistent access to quality produce.",
     "author_name": "Jessica Evans",
-    "author_role": "Sustainability Consultant",
+    "author_role": "Sustainability Advocate",
     "author_image": "https://i.ibb.co/99yvC6r/Avater8.png",
-    "image_small_1": "https://i.ibb.co/dDHFYvg/Frame-14078.png",
-    "image_big": "https://i.ibb.co/rfvvDnD/4-1.png",
-    "image_small_2": "https://i.ibb.co/SxxdDd3/Frame-14077.png",
+    "image_small_1": "https://contenthandler.azureedge.net/prod/21/5/768/588/NoCooking768x588WEB.jpg",
+    "image_small_3": "https://www.livekindly.com/wp-content/uploads/2018/05/Sustainable-Market-The-Ugly-Carrot-to-Bring-Organic-Farm-to-Table-Veg-Food-to-Mississippi-e1528320419786.jpg",
+    "image_small_2": "https://cdn.shopify.com/s/files/1/0874/2934/9685/files/organic-and-sustainable-farming-meaning-practices-examples-benefits-types-of-techniques-solutions-1.webp?v=1727192459",
+    "image_small_4": "https://images.pexels.com/photos/264642/pexels-photo-264642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
-        {
-            "name": "Daniel White",
-            "designation": "Travel Accommodation Developer",
-            "comment_avater_image": "https://i.ibb.co/Z2D3dPv/Avater6.png",
-            "comment": "Green building certification is increasingly important in today's market. It's not just about sustainability; it's about delivering value to guests and investors."
-        },
-        {
-            "name": "Emma Thompson",
-            "designation": "LEED Accredited Professional",
-            "comment_avater_image": "https://i.ibb.co/z4qzXQH/Avater4-5.png",
-            "comment": "As a LEED professional, I've seen firsthand the positive impact green building practices can have on communities and the environment. It's encouraging to see the momentum building towards more sustainable travel accommodation development."
-        }
+      {
+        "name": "Daniel White",
+        "designation": "Organic Farmer",
+        "comment_avater_image": "https://i.ibb.co/Z2D3dPv/Avater6.png",
+        "comment": "Farm-to-table is essential for flavor and planet."
+      },
+      {
+        "name": "Emma Thompson",
+        "designation": "Eco Cook",
+        "comment_avater_image": "https://i.ibb.co/z4qzXQH/Avater4-5.png",
+        "comment": "Sustainable sourcing inspires better cooking."
+      }
     ]
   },
   {
     "blog_id": 9,
     "time": "2024-04-26",
-    "title": "The Evolving Role of Mixed-Use Developments in Travel and Tourism",
-    "card_image": "https://i.ibb.co/D1P9CDJ/3-2.png",
-    "cover_image": "https://i.ibb.co/Zd6j9TM/Frame-14076.png",
-    "categories": "Travel Development",
-    "description": "Mixed-use developments are redefining travel destinations by integrating residential, commercial, and recreational spaces into cohesive and vibrant communities. These developments offer a range of benefits, including increased walkability, reduced reliance on cars, and greater access to amenities and services. By creating mixed-use environments where visitors can stay, dine, shop, and play in close proximity, developers and urban planners are fostering social interaction, economic vitality, and environmental sustainability in travel destinations around the world.",
-    "subtitle1": "The Rise of Mixed-Use Developments",
-    "subtitle1_description": "Mixed-use developments have gained popularity in response to changing demographic trends, urbanization, and preferences for vibrant, walkable neighborhoods. These developments combine residential, retail, office, and recreational components to create diverse and inclusive communities where visitors can stay, dine, and socialize without having to travel long distances. From mixed-use skyscrapers to waterfront districts, mixed-use developments are reshaping travel destinations and redefining the way people experience and interact with cities.",
-    "subtitle2": "Benefits of Mixed-Use Developments",
-    "subtitle2_description": "Mixed-use developments offer numerous benefits for visitors, businesses, and local economies. By co-locating residential, commercial, and recreational uses, mixed-use developments reduce traffic congestion, air pollution, and commute times, contributing to a more sustainable and enjoyable travel experience. Additionally, mixed-use developments create vibrant street life, support local businesses, and enhance property values by providing access to amenities such as parks, restaurants, shops, and cultural venues.",
-    "subtitle3": "Challenges and Opportunities in Mixed-Use Planning",
-    "subtitle3_description": "While mixed-use developments offer many advantages, they also present challenges and opportunities for urban planners, developers, and policymakers. Challenges include balancing competing interests, managing parking and traffic, and preserving neighborhood character and affordability. However, these challenges can be addressed through thoughtful design, community engagement, and flexible zoning regulations that encourage mixed-use development while mitigating potential negative impacts. Ultimately, mixed-use planning represents an opportunity to create more inclusive, sustainable, and resilient travel destinations for future generations.",
+    "title": "Delicious and Healthy Avocado Toast Ideas",
+    "card_image": "https://www.eatingwell.com/thmb/ZHXRyJgN5ikb5Zk0SMw1XhQ8W9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-267169-avocado-egg-toast-Hero-02-037627ac211748fc857b5a69989fa8e9.jpg",
+    "cover_image": "https://leaf.nutrisystem.com/wp-content/uploads/2021/03/10.jpg",
+    "categories": "Breakfast Recipes",
+    "description": "Avocado toast has become a brunch staple, offering nutritious and customizable options for quick, satisfying starts to the day.",
+    "subtitle1": "Rise of Avocado Toast",
+    "subtitle1_description": "Popular for its simplicity, health benefits, and endless variations.",
+    "subtitle2": "Benefits and Variations",
+    "subtitle2_description": "Packed with healthy fats, fiber, and easy toppings for flavor boosts.",
+    "subtitle3": "Creative Twists and Planning",
+    "subtitle3_description": "Experiment with add-ons while keeping prep efficient.",
     "author_name": "Oliver Thompson",
-    "author_role": "Urban Planner",
+    "author_role": "Brunch Expert",
     "author_image": "https://i.ibb.co/6PBjQhC/Avater9.png",
-    "image_small_1": "https://i.ibb.co/6ZYJLFB/Frame-14075.png",
-    "image_big": "https://i.ibb.co/M2L3RBw/3-1.png",
-    "image_small_2": "https://i.ibb.co/r7Bq3ZB/10.png",
+    "image_small_1": "https://www.allrecipes.com/thmb/8NccFzsaq0_OZPDKmf7Yee-aG78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AvocadoToastwithEggFranceC4x3-bb87e3bbf1944657b7db35f1383fabdb.jpg",
+    "image_small_3": "https://californiaavocado.com/wp-content/uploads/2020/07/California-Avocado-Toast-Three-Ways.jpeg",
+    "image_small_2": "https://alegumeaday.com/wp-content/uploads/2024/03/Bean-avocado-toast-3.jpg",
+    "image_small_4": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "comments": [
-        {
-            "name": "Sophia Martinez",
-            "designation": "City Council Member",
-            "comment_avater_image": "https://i.ibb.co/nM03LpV/Avater4-4.png",
-            "comment": "Mixed-use developments are a key strategy for creating vibrant, walkable communities and promoting economic development. As a city council member, I'm committed to supporting policies that encourage mixed-use development and enhance the quality of life for our residents and visitors."
-        },
-        {
-            "name": "Andrew Taylor",
-            "designation": "Real Estate Developer",
-            "comment_avater_image": "https://i.ibb.co/w4yjhFw/Avater4-3.png",
-            "comment": "I've been involved in several mixed-use development projects, and the demand for these types of spaces continues to grow. People want to stay, dine, and socialize in dynamic urban environments, and mixed-use developments offer the perfect solution."
-        }
+      {
+        "name": "Sophia Martinez",
+        "designation": "Breakfast Fan",
+        "comment_avater_image": "https://i.ibb.co/nM03LpV/Avater4-4.png",
+        "comment": "Avocado toast is my go-to for healthy mornings."
+      },
+      {
+        "name": "Andrew Taylor",
+        "designation": "Recipe Creator",
+        "comment_avater_image": "https://i.ibb.co/w4yjhFw/Avater4-3.png",
+        "comment": "So many ways to make it exciting!"
+      }
     ]
   }
 ]

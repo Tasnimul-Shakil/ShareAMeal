@@ -65,7 +65,7 @@ const AddNewFood = () => {
     console.log("all info:", newFoodAdd);
 
     // send data to backend
-    fetch("http://localhost:3000/foodInfo", {
+    fetch("https://shareamealbackend.vercel.app/foodInfo", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

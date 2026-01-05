@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
-const Countries = ({ card }) => {
-  const { country_name, countryPhoto } = card;
+const Locations = ({ card }) => {
+  const { pickup_location, cardPhoto } = card;
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -13,16 +13,16 @@ const Countries = ({ card }) => {
       <article className="custom-card">
         <img
           className="custom-card__background"
-          src={countryPhoto}
+          src={cardPhoto}
           alt="Photo of my work"
         />
         <div className="custom-card__content flow text-left">
           <div className="custom-card__content--container flow">
             <h2 className="custom-card__title text-2xl font-head font-bold text-[#f0ca4e]">
-              {country_name}
+              {pickup_location}
             </h2>
           </div>
-          <Link to={`/countryCards/${country_name}`}>
+          <Link to={`/LocationCards/${pickup_location}`}>
             <button
               onClick={scrollToTop}
               className="btn text-xl border-none text-[#080808] bg-[#f0ca4e] hover:bg-[#55D4AB] group"
@@ -36,4 +36,4 @@ const Countries = ({ card }) => {
   );
 };
 
-export default Countries;
+export default Locations;

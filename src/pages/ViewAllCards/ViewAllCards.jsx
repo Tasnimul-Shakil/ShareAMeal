@@ -26,12 +26,12 @@ const ViewAllCards = () => {
                 <IoMdArrowRoundBack /> Home
               </Link>
             </li>
-            <li>Our Tourist Spots</li>
+            <li>Our Available Foods</li>
           </ul>
         </div>
 
         <h1 className="animate__animated animate__bounce text-3xl font-bold">
-          Choose Your Best Tour Plan
+          Choose Your Best Foods
         </h1>
         <p>Some of our picked Spots near your location.</p>
 

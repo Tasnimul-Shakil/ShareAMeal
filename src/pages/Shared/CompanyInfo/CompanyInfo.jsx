@@ -20,11 +20,11 @@ const CompanyInfo = () => {
           style={{ backgroundImage: `url(${infoBackground})` }}
         >
           <h1 className="text-3xl font-semibold text-[#155315]">
-            The New Way to Plan <br /> Your Next Adventure
+            The Smarter Way to <br /> Share Food
           </h1>
           <p>
-            Discover your dream destination with over 10k+ travel experiences
-            listed on TravelCraft.
+            Help reduce food waste while supporting your community. Discover
+            fresh, safe, and surplus meals shared by people around you.
           </p>
           <Link to={`/about`} onClick={scrollToTop}>
             <button className=" btn mt-10 px-4 border-0 font-semibold text-white bg-[#55D4AB] hover:bg-[#f0ca4e] hover:text-black">
@@ -35,53 +35,52 @@ const CompanyInfo = () => {
       </div>
       <div className=" lg:flex-auto px-4">
         <h3 className="text-2xl font-bold tracking-tight text-gray-900">
-          Empowering Your Travel Journey
+          Empowering Your Food-Sharing Journey
         </h3>
         <p className="pt-4 text-base leading-7 text-gray-600">
-          At TravelCraft, we empower you to explore the world with confidence.
-          Our comprehensive services and commitment to transparency put you in
-          control, ensuring a seamless and rewarding travel experience.
+          At ShareAMeal, we make it easy to share, request, or donate food with
+          confidence. Our platform prioritizes safety, transparency, and
+          convenience—giving you full control every step of the way.
         </p>
         <div className="grid lg:grid-cols-2 items-center gap-x-4 lg:gap-y-4 gap-y-10 pt-6 ">
           <div className=" px-2  ">
             <img src={cardIcon1} alt="" />
             <div className="">
-              <h2 className="card-title">Travel Insurance</h2>
+              <h2 className="card-title">Safe & Verified Sharing</h2>
               <p className="pr-4">
-                Ensure peace of mind with our comprehensive solutions,
-                protecting your journey and securing your adventures.
+                All shared foods follow clear standards to ensure quality and
+                safety—so you can give or receive meals with peace of mind.
               </p>
             </div>
           </div>
           <div className=" px-2  ">
             <img src={cardIcon2} alt="" />
             <div className="">
-              <h2 className="card-title">Best Price Guarantee</h2>
+              <h2 className="card-title">Freshness Guarantee</h2>
               <p className="pr-4">
-                Rest assured with TravelCraft is commitment to competitive prices
-                and maximizing value for travelers.
+                Rest assured knowing every item comes with clear manufacturing
+                and expiry details, helping you choose only the freshest
+                options.
               </p>
             </div>
           </div>
           <div className=" px-2  ">
             <img src={cardIcon3} alt="" />
             <div className="">
-              <h2 className="card-title">Lowest Commission Rates</h2>
+              <h2 className="card-title">Zero Commission</h2>
               <p className="pr-4">
-                Save on costs with TravelCraft is transparent pricing, offering
-                some of the industry’s lowest rates without sacrificing quality
-                service.
+                Share or request food for free. We charge no extra fees, making
+                generosity simple and accessible for everyone.
               </p>
             </div>
           </div>
           <div className=" px-2  ">
             <img src={cardIcon4} alt="" />
             <div className="">
-              <h2 className="card-title">Overall Control</h2>
+              <h2 className="card-title">Full Control</h2>
               <p className="pr-4">
-                Take charge of your journey with TravelCraft is platform,
-                providing tools for informed decision-making and ultimate
-                control over your travel endeavors.
+                Manage your shared food items, track requests, update details,
+                and communicate with others—all in one streamlined dashboard.
               </p>
             </div>
           </div>

@@ -46,7 +46,7 @@ const Register = () => {
   //   createUser(email, password, image, name).then((result) => {
   //     updateUserProfile(image, name).then(() => {
   //       const user = {email};
-  //       fetch('http://localhost:3000/user',{
+  //       fetch('https://shareamealbackend.vercel.app/user',{
   //         method: "POST",
   //         headers: {
   //           "Content-Type": "application/json",
@@ -80,13 +80,16 @@ const Register = () => {
 
       // Post to server
       const user = { email, password, image, name };
-      const response = await fetch("http://localhost:3000/user", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(user),
-      });
+      const response = await fetch(
+        "https://shareamealbackend.vercel.app/user",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(user),
+        }
+      );
 
       const data = await response.json();
       console.log(data);

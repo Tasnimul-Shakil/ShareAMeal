@@ -50,7 +50,7 @@ const BlogDetails = () => {
       {blog && (
         <>
           <img
-            className="w-full h-[22rem] rounded-2xl"
+            className="w-full h-[22rem] object-cover rounded-2xl"
             src={blog.cover_image}
             alt=""
           />
@@ -80,31 +80,35 @@ const BlogDetails = () => {
             <p className=" text-[#747474] italic leading-loose ">
               {blog.subtitle1_description}
             </p>
-            <div className="grid pt-12 lg:grid-cols-2 gap-1 grid-cols-1">
-              <div>
-                <div className="relative overflow-hidden bg-cover bg-no-repeat rounded-lg">
-                  <img
-                    className=" rounded-lg lg:w-full"
-                    src={blog.image_big}
-                    alt=""
-                  />
-                </div>
+            {/* Updated grid with consistent image sizes using object-cover and fixed height */}
+            <div className="grid pt-12 lg:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-6">
+              <div className="relative overflow-hidden rounded-lg h-96">
+                <img
+                  className="w-full h-full object-cover rounded-lg"
+                  src={blog.image_small_1}
+                  alt="Large detail"
+                />
               </div>
-              <div className="grid grid-row-2 gap-2">
-                <div className="relative overflow-hidden bg-cover bg-no-repeat rounded-lg">
-                  <img
-                    className="  rounded-lg"
-                    src={blog.image_small_1}
-                    alt=""
-                  />
-                </div>
-                <div className="relative overflow-hidden bg-cover bg-no-repeat rounded-lg">
-                  <img
-                    className=" rounded-lg"
-                    src={blog.image_small_2}
-                    alt=""
-                  />
-                </div>
+              <div className="relative overflow-hidden rounded-lg h-96">
+                <img
+                  className="w-full h-full object-cover rounded-lg"
+                  src={blog.image_small_2}
+                  alt="Small detail 1"
+                />
+              </div>
+              <div className="relative overflow-hidden rounded-lg h-96">
+                <img
+                  className="w-full h-full object-cover rounded-lg"
+                  src={blog.image_small_3}
+                  alt="Small detail 2"
+                />
+              </div>
+              <div className="relative overflow-hidden rounded-lg h-96">
+                <img
+                  className="w-full h-full object-cover rounded-lg"
+                  src={blog.image_small_4}
+                  alt="Small detail 3"
+                />
               </div>
             </div>
             <h1 className=" text-2xl font-bold pt-12 pb-4">{blog.subtitle2}</h1>

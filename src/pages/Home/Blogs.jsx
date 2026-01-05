@@ -26,7 +26,7 @@ const Blogs = ({ card }) => {
     : categories;
 
   return (
-    <article className="card border-3 border-[#155315] shadow-xl border-2 rounded-xl">
+    <article className="card h-[30rem] border-3 border-[#155315] shadow-xl border-2 rounded-xl">
       <figure>
         <img src={card_image} alt={title} />
       </figure>

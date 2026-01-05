@@ -9,12 +9,10 @@ import { useState } from "react";
 import Testimonials from "../Shared/Testimonials/Testimonials";
 import EmailInfo from "../Shared/EmailInfo/EmailInfo";
 import Blogs from "./Blogs";
-// import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
-import Countries from "../Shared/Countries/Countries";
-// import 'swiper/css/navigation';
+import Locations from "../Shared/Locations/Locations";
 
 const Home = () => {
   // const cards = useLoaderData();
@@ -25,13 +23,13 @@ const Home = () => {
 
   const [dataLength] = useState(6);
 
-  const uniqueCountries = [];
-  const uniqueCountryNames = new Set();
+  const uniqueLocations = [];
+  const uniqueLocationNames = new Set();
 
   cardData.forEach((card) => {
-    if (!uniqueCountryNames.has(card.country_name)) {
-      uniqueCountryNames.add(card.country_name);
-      uniqueCountries.push(card);
+    if (!uniqueLocationNames.has(card.pickup_location)) {
+      uniqueLocationNames.add(card.pickup_location);
+      uniqueLocations.push(card);
     }
   });
   return (
@@ -42,10 +40,10 @@ const Home = () => {
         <h1 className=" animate__animated animate__bounce text-3xl font-bold ">
           Based on your location
         </h1>
-        <p className="">Some of our picked properties near you location.</p>
+        <p className="">Some of our Food Spots near you location.</p>
         <div className="pt-6 grid grid-cols-1 gap-x-6 gap-y-10 md:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
-          {uniqueCountries.slice(0, dataLength).map((aCards) => (
-            <Countries key={aCards._id} card={aCards} />
+          {uniqueLocations.slice(0, dataLength).map((aCards) => (
+            <Locations key={aCards._id} card={aCards} />
           ))}
         </div>
       </div>

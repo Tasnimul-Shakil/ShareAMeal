@@ -5,10 +5,10 @@ import Navbar from "../Shared/Navbar/Navbar";
 import Card from "../Home/Card";
 import { Link } from "react-router-dom";
 
-const CountryCards = () => {
-  const { data, country_name } = useLoaderData();
+const LocationCards = () => {
+  const { data, pickup_location } = useLoaderData();
   const filteredCards = data.filter(
-    (card) => card.country_name === country_name
+    (card) => card.pickup_location === pickup_location
   );
 
   const scrollToTop = () => {
@@ -31,11 +31,11 @@ const CountryCards = () => {
                 </a>
               </Link>
             </li>
-            <li>Our Tourist Spots</li>
+            <li>Our Food Details</li>
           </ul>
         </div>
         <h1 className="animate__animated animate__bounce text-3xl font-bold ">
-          Choose Your bast Tour Plane
+          Choose Your Food
         </h1>
         <p className="">Some of our picked Spots near you location.</p>
         <div className="pt-6 grid grid-cols-1 gap-x-6 gap-y-10 md:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
@@ -49,4 +49,4 @@ const CountryCards = () => {
   );
 };
 
-export default CountryCards;
+export default LocationCards;

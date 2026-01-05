@@ -53,7 +53,7 @@ const AuthProvider = ({ children }) => {
         };
 
         // Save the user to MongoDB
-        fetch("http://localhost:3000/user", {
+        fetch("https://shareamealbackend.vercel.app/user", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

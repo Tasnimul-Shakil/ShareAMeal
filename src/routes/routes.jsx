@@ -12,9 +12,10 @@ import AllBlogs from "../pages/AllBlogs/AllBlogs";
 import AddNewFood from "../pages/AddNewFood/AddNewFood";
 import Profile from "../pages/Profile/Profile";
 import UpdateFoodInfo from "../pages/UpdateFoodInfo/UpdateFoodInfo";
-import CountryCards from "../pages/ViewAllCards/CountryCards";
+import LocationCards from "../pages/ViewAllCards/LocationCards";
+import FoodRequest from "../pages/FoodRequest/FoodRequest";
 
-const BASE_URL = "http://localhost:3000/foodInfo";
+const BASE_URL = "https://shareamealbackend.vercel.app/foodInfo";
 
 const routes = createBrowserRouter([
   {
@@ -106,13 +107,13 @@ const routes = createBrowserRouter([
           fetch(`${BASE_URL}/${params.id}`).then((res) => res.json()),
       },
       {
-        path: "/countryCards/:country_name",
-        element: <CountryCards />,
+        path: "/LocationCards/:pickup_location",
+        element: <LocationCards />,
         loader: async ({ params }) => {
-          const { country_name } = params;
+          const { pickup_location } = params;
           const response = await fetch(`${BASE_URL}`);
           const data = await response.json();
-          return { data, country_name };
+          return { data, pickup_location };
         },
       },
       {
@@ -124,6 +125,19 @@ const routes = createBrowserRouter([
         ),
         loader: async () => {
           const response = await fetch(`${BASE_URL}`);
+          const data = await response.json();
+          return data;
+        },
+      },
+      {
+        path: "/foodRequest",
+        element: (
+          <PrivateRoute>
+            <FoodRequest />
+          </PrivateRoute>
+        ),
+        loader: async ({ params }) => {
+          const response = await fetch(`${BASE_URL}/${params.id}`);
           const data = await response.json();
           return data;
         },
